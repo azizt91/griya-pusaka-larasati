@@ -19,4 +19,6 @@ Website contoh katalog produk untuk pelanggan. Semua isi masih **dummy / contoh*
 
 ## Catatan penting (versi contoh)
 
+<!-- Trigger redeploy Vercel — 11 Nov 2026 11:45 WIB -->
+
 Ini website statis contoh. Perubahan di Mode Pemilik hanya berlaku selama halaman dibuka, belum tersimpan permanen dan belum terlihat pengunjung lain. Untuk versi produksi, produk sebaiknya disimpan di database (misalnya Supabase) agar perubahan pemilik langsung terlihat semua pengunjung.
